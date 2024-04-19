@@ -1,7 +1,7 @@
 numpy
 matplotlib
 scikit-learn
-PIL
+Pillow
 tqdm
 ipywidgets
 torch
