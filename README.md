@@ -4,3 +4,7 @@ Ce dépôt contient quelques ressources pour le cours d'introduction à l'appren
 
 Il est possible d'accéder directement aux TP en ligne à l'aide de Binder:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nshaud/ml_ensg/HEAD)
+
+ou de Google Colab
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nshaud/ml_ensg/blob/master/)
