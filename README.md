@@ -10,4 +10,3 @@ ou de Google Colab
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nshaud/ml_ensg/blob/master/)
 
-## github.com/nshaud/ml_ensg
