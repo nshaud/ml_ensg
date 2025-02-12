@@ -1,6 +1,7 @@
 numpy
 matplotlib
 scikit-learn
+scikit-image
 Pillow
 tqdm
 ipywidgets
