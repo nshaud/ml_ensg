@@ -10,3 +10,11 @@ ou de Google Colab
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nshaud/ml_ensg/blob/master/)
 
+Vous pouvez également travailler en local en clonant ce dépôt puis en lançant un serveur Jupyter :
+
+```bash
+git clone https://github.com/nshaud/ml_ensg.git
+cd ml_ensg
+pip install -r requirements.txt
+jupyter notebook
+```
