@@ -1,5 +1,6 @@
 # Introduction à l'apprentissage automatique
 
+# https://github.com/nshaud/ml_ensg
 
 Ce dépôt contient quelques ressources pour le cours d'introduction à l'apprentissage automatique de deuxième année du cycle ingénieur de l'ENSG.
 
