@@ -5,7 +5,4 @@ scikit-image
 Pillow
 tqdm
 ipywidgets
-torch
-torchvision
-datasets
 notebook
